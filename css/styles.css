@@ -1,9 +1,9 @@
 /*===========UNIVRSAL===========*/
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two:400,700i|Raleway');
 
-/*.container-fluid {
-  background-color: #fff;
-  height: 450px;
-}*/
+.p {
+  font-family:'raleway', sans-serif;
+}
 /*===========NAVBAR===========*/
 .navbar-defalt {
   background-color: #b3b3b3;
@@ -31,6 +31,14 @@
   margin-top: 50px;
   background-image: url('../img/apple.jpg');
   height: 800px;
+}
+.panel-title {
+  font-style: italic;
+  font-family: 'Lobster Two', cursive;
+}
+
+.panel-body{
+  font-family:'raleway', sans-serif;
 }
 
 #home {
