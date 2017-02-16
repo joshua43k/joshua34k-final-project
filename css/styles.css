@@ -4,6 +4,11 @@
 .p {
   font-family:'raleway', sans-serif;
 }
+
+.h3 {
+  font-style: italic;
+  font-family: 'Lobster Two', cursive;
+}
 /*===========NAVBAR===========*/
 .navbar-defalt {
   background-color: #b3b3b3;
