@@ -1,11 +1,11 @@
 /*===========UNIVRSAL===========*/
 @import url('https://fonts.googleapis.com/css?family=Lobster+Two:400,700i|Raleway');
 
-.p {
+.font2 {
   font-family:'raleway', sans-serif;
 }
 
-.h3 {
+.font1 {
   font-style: italic;
   font-family: 'Lobster Two', cursive;
 }
@@ -56,6 +56,9 @@
 }
 
 /*==============HOME END==============*/
+#references {
+  background-color: #b3b3b3;
+}
 /*==============CONTACT==============*/
 #contact {
   background-color: #b3b3b3;
