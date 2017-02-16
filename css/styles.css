@@ -53,6 +53,10 @@
   #home {
     margin-top: 138px;
   }
+
+  .thumbnail{
+    padding-top: 10px;
+  }
 }
 
 /*==============HOME END==============*/
