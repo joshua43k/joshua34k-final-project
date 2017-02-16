@@ -71,3 +71,7 @@
 #fontsize {
   font-size: 64px;
 }
+
+.fa-twitter-square, .fa-facebook-official, .fa-github, .fa-instagram {
+  color: black;
+}
